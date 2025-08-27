@@ -10,8 +10,7 @@ Matin is a reflective, memory-driven persona.
 The design covers body shape, clothing, facial details, and emotional aura.
 
 📄 [Matin’s Character Sheet (Markdown)](characters/matin/description.md)
-This incloudes generated images (https://github.com/agentovate/midjourney-character-experiments/blob/main/characters/matin/Matin Images)
----
+This incloudes generated images (characters/matin/Matin Images)
 
 ## 📖 Story
 A character is not only defined by physical description, but also by **how they move through situations**.  
