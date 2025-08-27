@@ -1,5 +1,13 @@
 # Character: Matin
 
+## 🌱 Inner Character
+
+- Deeply introspective, with a strong sensory memory.  
+- Moves with a calm rhythm, needing small, structured environments.  
+- Forms profound non-verbal connections with the world.  
+- Sensitive to human presence, but in silence rather than noise.  
+- Creativity lies in *rebuilding* and transforming experiences.  
+
 ---
 
 ## 🧍 Body & Shape
