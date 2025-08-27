@@ -15,7 +15,7 @@ The design covers body shape, clothing, facial details, and emotional aura.
 
 ## 🎨 Prompts
 This repo also includes the prompts I used to generate consistent outputs in MidJourney:  
-- [Matin prompts](prompts/matin_prompts.txt)
+- [Matin prompts](characters/matin/matin_prompts.txt)
 
 ---
 
