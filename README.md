@@ -16,7 +16,7 @@ This incloudes generated images(characters/matin/Matin Images)
 A character is not only defined by physical description, but also by **how they move through situations**.  
 By placing Matin inside short scenes, I can test whether generative AI keeps his personality, mood, and aura consistent across different contexts.
 It turns raw AI generations into a reproducible design process, where the goal is not just a picture, but a living, evolving persona.
-[Read the story](midjourney-character-experiments/story.txt)
+[Read the story](story.txt)
 
 ## 🎨 Prompts
 This repo also includes the prompts I used to generate consistent outputs in MidJourney:  
